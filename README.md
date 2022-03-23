@@ -7,5 +7,5 @@ Calculates metrics for the e-shop, including 3 additional metrics for the the si
 - Gross Merchandise Volume (GMV) Gross Merchandise Volume is the total sum of revenue of the sold goods during the period. This metrics might be also used for compartive goods' evaluation. GMV is calculated as number of purchases * average order value.
 # Ticket agregator
 Python based ticket agregator, includes additional metrics for the search and output classification: The safest": without nightover (transfer at night), without airport change, the average aircraft age is less than 5 years and no covid-restrictions at the destination point. "Normal": 1 or less nightovers, 1 or less airport change, the average aircraft age is from 5 to 7 years and no covid-restrictions. And "The unsafe": 1 or more nightovers, 2 or more airport changes and the average aircraft age is more than 7 years there are may be covid-restrictions at the destination point. The unclassified ones are considered in the "Other" category.
-# NMIST recognition
+# MNIST recognition
 Python based numbers handwriting recognition (from 0 to 9).
